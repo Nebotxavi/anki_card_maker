@@ -9,7 +9,7 @@ Screenshots below show how the tool transforms a simple text file into structure
 季节 吃饭 电脑 衬衫
 ```
 
-![Anki card preview](screenshots/anki_card_example.jpeg)
+![Anki card preview](screenshots/anki_card_example.jpg)
 
 
 
